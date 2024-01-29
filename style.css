@@ -77,7 +77,7 @@ section {
 }
 
 .home-img img {
-  width: 35vw;
+  width: 55vw;
   animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -192,7 +192,7 @@ span {
   flex: 1 1 30rem;
   background: var(--second-bg-color);
   padding: 3rem 2rem 4rem;
-  border-radius: 2rem;
+  border-radius: 3rem;
   text-align: center;
   border: 0.2rem solid var(--bg-color);
   transition: 0.5s ease;
